@@ -35,7 +35,7 @@ Second, you go to the location where you want to use it, with your command promp
 > yarn server
 
 ### Run the project
-$ yarn dev
+> yarn dev
 
 Then go to <http://localhost:8080> to see the project running
 
