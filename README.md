@@ -23,16 +23,16 @@ First, you will need <a href="https://git-scm.com/" target="_blank">Git</a> and 
 Second, you go to the location where you want to use it, with your command prompt. Then run the followin code:
 
 ### To clone this project:
-$ git clone https://github.com/Vinicius-PR/Ignite-additional-Challenge-01.git
+> git clone https://github.com/Vinicius-PR/Ignite-additional-Challenge-01.git
 
 ### To access
-$ cd Ignite-additional-Challenge-01
+> cd Ignite-additional-Challenge-01
 
 ### Install dependencies
-$ yarn
+> yarn
 
 ### Run fake Api
-$ yarn server
+> yarn server
 
 ### Run the project
 $ yarn dev
