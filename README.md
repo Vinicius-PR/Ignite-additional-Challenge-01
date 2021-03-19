@@ -16,7 +16,6 @@ It is a simple project that list and show a list of genres and movies related wi
 <li>TypeScript</li>
 </ul>
 
-[Git](https://git-scm.com/){:target="_blank"}
 
 ## Start using this project
 First, you will need <a href="https://git-scm.com/" target="_blank">Git</a> and <a href="https://nodejs.org/en/" target="_blank">Node</a> installed in your machine.
