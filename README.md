@@ -4,7 +4,7 @@
 ![Resultado Final](https://github.com/Vinicius-PR/Ignite-additional-Challenge-01/blob/main/Final%20Result.jpg)
 
 ## About
-It is a simple project that list and show a list of genres and movies related with the genres selected.
+It is a simple project that list and show a list of genres and movies related with the genres selected. My job was to separate a component in various others. So now it component will be in charge of its duty. This way, the code is easier to understand and maintain.
 
 ## Technologies used
 <ul>
